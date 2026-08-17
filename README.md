@@ -21,6 +21,6 @@ As duas imagens atuais foram criadas especificamente como materiais provisórios
 - Método de build: Dockerfile
 - Contexto: `.`
 - Dockerfile: `Dockerfile`
-- Porta interna: `80`
+- Porta interna: `3000`
 
 Não é necessário configurar comando de build ou inicialização.
